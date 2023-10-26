@@ -58,6 +58,7 @@ nav#menu ul li a:hover, header a:hover{
 }
 
 header{
+    margin-top: 80px;
     height: 300px;
     /*ajout*/
     background-image: url(../images/toronto.jpg);
